@@ -1,6 +1,6 @@
 from project_module import project_object, image_object, link_object, challenge_object
 
-p = project_object('apollo')
+p = project_object('apollo', 'Apollonian gasket generator')
 p.domain = 'http://www.aidansean.com/'
 p.path = 'apollo'
 p.preview_image_ = image_object('http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg', 408, 287)
@@ -33,6 +33,3 @@ Three circles used to create a new circle are known as a triplet.  Each time a n
 p.challenges.append(challenge_object('The first challenge faced was to correctly reconstruct a new circle from a given triplet.  There is a degenerate case where the centres of the circles in a triplet are collinear and none of the circles contains another circle.  A degenerate collinear triplet can never emerge if the first triplet is not a degenerate collinear triplet.', 'The equations given above always find a new circle for a given triplet.  Degenerate collinear triplets are ignored.', 'Resolved'))
 
 p.challenges.append(challenge_object('As triplets are processed this introduces new triplets.  These can lead to a few problems, including runaway memory and CPU usage, as well as the algorithm never completing one part of the gasket before moving on to another.', 'There is a limit on the number of circles that can be produced.  There is a stack of triplets and new triplets are added to this.  As triplets are processed, they get removed from the stack.  In this way the gasket can be filled uniformly, removing triplets keeps memory usage low, and the limit on the number of circles stops the algorithms before CPU use becomes an issue.  The result is an image where some areas may look sparsely populated.  This algorithm should be revisited to make it more robust.', 'Resolved, to be revisited.'))
-
-print p.wordpress_text()
-

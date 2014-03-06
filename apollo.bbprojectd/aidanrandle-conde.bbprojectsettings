@@ -4,8 +4,8 @@
 <dict>
 	<key>EmbeddedEditorHidden:aidanrandle-conde</key>
 	<false/>
-	<key>ExpandedEditorWidth:aidanrandle-conde:displays([(0, 0), (1680, 1050)])</key>
-	<integer>850</integer>
+	<key>ExpandedEditorWidth:aidanrandle-conde:displays([(0, 0), (1680, 1050)]:[(1680, 0), (1920, 1080)])</key>
+	<integer>695</integer>
 	<key>ExpandedItems:aidanrandle-conde</key>
 	<array>
 		<string>3E97FCEE-67CB-4B1B-961E-A1ACA4F8B9D5</string>
@@ -225,7 +225,53 @@
 	<array>
 		<dict>
 			<key>Date</key>
-			<date>2014-03-05T23:46:17Z</date>
+			<date>2014-03-06T18:07:19Z</date>
+			<key>Location</key>
+			<dict>
+				<key>BookmarkData</key>
+				<data>
+				Ym9va9wDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
+				AAAAAAAAAAAAAAAAAAAA5AIAAAUAAAABAQAAVXNlcnMA
+				AAARAAAAAQEAAGFpZGFucmFuZGxlLWNvbmRlAAAACAAA
+				AAEBAABQcm9qZWN0cw0AAAABAQAAcHJvamVjdHNfZGF0
+				YQAAAAYAAAABAQAAYXBvbGxvAAARAAAAAQEAAHByb2pl
+				Y3RfYXBvbGxvLnB5AAAAGAAAAAEGAAAEAAAAFAAAADAA
+				AABAAAAAWAAAAGgAAAAIAAAABAMAAOkQAgAAAAAACAAA
+				AAQDAACowwUAAAAAAAgAAAAEAwAAG5GoAQAAAAAIAAAA
+				BAMAABqZqAEAAAAACAAAAAQDAAC1wagBAAAAAAgAAAAE
+				AwAAncCoAQAAAAAYAAAAAQYAAKQAAAC0AAAAxAAAANQA
+				AADkAAAA9AAAAAgAAAAABAAAQbjH0/sAAAAYAAAAAQIA
+				AAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAQAAAADAwAA
+				BAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
+				IEhECAAAAAQDAAAAIIg9OgAAAAgAAAAABAAAQbbvkdoA
+				AAAkAAAAAQEAADVDREZDNEU2LTIxQzQtM0JDRC04RUJG
+				LTM1OTIwRjg4NDA4RRgAAAABAgAAgQAAAAEACADvFwAA
+				AQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADZ
+				AAAAAQIAADc3NTE4OGQ2NTk1ZGQwZTFlMTMyMGM3YjQ3
+				MWM4MjEwYzEyNDE1MTg7MDAwMDAwMDA7MDAwMDAwMDA7
+				MDAwMDAwMDAwMDAwMDAyMDtjb20uYXBwbGUuYXBwLXNh
+				bmRib3gucmVhZC13cml0ZTswMDAwMDAwMTswMTAwMDAw
+				MTswMDAwMDAwMDAxYThjMDlkOy91c2Vycy9haWRhbnJh
+				bmRsZS1jb25kZS9wcm9qZWN0cy9wcm9qZWN0c19kYXRh
+				L2Fwb2xsby9wcm9qZWN0X2Fwb2xsby5weQAAAADAAAAA
+				/v///wEAAAAAAAAADwAAAAQQAACEAAAAAAAAAAUQAAAE
+				AQAAAAAAABAQAAA0AQAAAAAAAEAQAAAkAQAAAAAAAAIg
+				AADsAQAAAAAAABAgAABsAQAAAAAAABEgAACgAQAAAAAA
+				ABIgAACAAQAAAAAAABMgAACQAQAAAAAAACAgAADMAQAA
+				AAAAADAgAAD4AQAAAAAAAAHAAABUAQAAAAAAABHAAAAU
+				AAAAAAAAABLAAABgAQAAAAAAAIDwAAAAAgAAAAAAAA==
+				</data>
+				<key>FileURL</key>
+				<string>file://localhost/Users/aidanrandle-conde/Projects/projects_data/apollo/project_apollo.py</string>
+				<key>TypeID</key>
+				<string>_CFileLocator</string>
+				<key>Version</key>
+				<integer>1</integer>
+			</dict>
+		</dict>
+		<dict>
+			<key>Date</key>
+			<date>2014-03-06T18:07:19Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -272,7 +318,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2014-03-05T23:46:17Z</date>
+			<date>2014-03-06T18:07:19Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -319,7 +365,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2014-03-05T23:46:16Z</date>
+			<date>2014-03-06T18:07:19Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -366,7 +412,7 @@
 		</dict>
 		<dict>
 			<key>Date</key>
-			<date>2014-03-05T23:46:16Z</date>
+			<date>2014-03-06T18:07:19Z</date>
 			<key>Location</key>
 			<dict>
 				<key>BookmarkData</key>
@@ -411,52 +457,6 @@
 				<integer>1</integer>
 			</dict>
 		</dict>
-		<dict>
-			<key>Date</key>
-			<date>2014-03-05T23:46:15Z</date>
-			<key>Location</key>
-			<dict>
-				<key>BookmarkData</key>
-				<data>
-				Ym9va9wDAAAAAAQQMAAAAAAAAAAAAAAAAAAAAAAAAAAA
-				AAAAAAAAAAAAAAAAAAAA5AIAAAUAAAABAQAAVXNlcnMA
-				AAARAAAAAQEAAGFpZGFucmFuZGxlLWNvbmRlAAAACAAA
-				AAEBAABQcm9qZWN0cw0AAAABAQAAcHJvamVjdHNfZGF0
-				YQAAAAYAAAABAQAAYXBvbGxvAAARAAAAAQEAAHByb2pl
-				Y3RfYXBvbGxvLnB5AAAAGAAAAAEGAAAEAAAAFAAAADAA
-				AABAAAAAWAAAAGgAAAAIAAAABAMAAOkQAgAAAAAACAAA
-				AAQDAACowwUAAAAAAAgAAAAEAwAAG5GoAQAAAAAIAAAA
-				BAMAABqZqAEAAAAACAAAAAQDAAC1wagBAAAAAAgAAAAE
-				AwAAncCoAQAAAAAYAAAAAQYAAKQAAAC0AAAAxAAAANQA
-				AADkAAAA9AAAAAgAAAAABAAAQbjH0/sAAAAYAAAAAQIA
-				AAEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAQAAAADAwAA
-				BAAAAAQAAAADAwAA9QEAAAwAAAABAQAATWFjaW50b3No
-				IEhECAAAAAQDAAAAIIg9OgAAAAgAAAAABAAAQbbvkdoA
-				AAAkAAAAAQEAADVDREZDNEU2LTIxQzQtM0JDRC04RUJG
-				LTM1OTIwRjg4NDA4RRgAAAABAgAAgQAAAAEACADvFwAA
-				AQAIAAAAAAAAAAAAAQAAAAEBAAAvAAAAAAAAAAEFAADZ
-				AAAAAQIAADc3NTE4OGQ2NTk1ZGQwZTFlMTMyMGM3YjQ3
-				MWM4MjEwYzEyNDE1MTg7MDAwMDAwMDA7MDAwMDAwMDA7
-				MDAwMDAwMDAwMDAwMDAyMDtjb20uYXBwbGUuYXBwLXNh
-				bmRib3gucmVhZC13cml0ZTswMDAwMDAwMTswMTAwMDAw
-				MTswMDAwMDAwMDAxYThjMDlkOy91c2Vycy9haWRhbnJh
-				bmRsZS1jb25kZS9wcm9qZWN0cy9wcm9qZWN0c19kYXRh
-				L2Fwb2xsby9wcm9qZWN0X2Fwb2xsby5weQAAAADAAAAA
-				/v///wEAAAAAAAAADwAAAAQQAACEAAAAAAAAAAUQAAAE
-				AQAAAAAAABAQAAA0AQAAAAAAAEAQAAAkAQAAAAAAAAIg
-				AADsAQAAAAAAABAgAABsAQAAAAAAABEgAACgAQAAAAAA
-				ABIgAACAAQAAAAAAABMgAACQAQAAAAAAACAgAADMAQAA
-				AAAAADAgAAD4AQAAAAAAAAHAAABUAQAAAAAAABHAAAAU
-				AAAAAAAAABLAAABgAQAAAAAAAIDwAAAAAgAAAAAAAA==
-				</data>
-				<key>FileURL</key>
-				<string>file://localhost/Users/aidanrandle-conde/Projects/projects_data/apollo/project_apollo.py</string>
-				<key>TypeID</key>
-				<string>_CFileLocator</string>
-				<key>Version</key>
-				<integer>1</integer>
-			</dict>
-		</dict>
 	</array>
 	<key>RecentItemsExpanded</key>
 	<true/>
@@ -471,8 +471,8 @@
 	<key>ToolbarVisible:aidanrandle-conde</key>
 	<true/>
 	<key>ViewSplitterPosition:aidanrandle-conde</key>
-	<real>0.18286813795566559</real>
-	<key>WindowFrame:aidanrandle-conde:displays([(0, 0), (1680, 1050)])</key>
-	<string>rect(88,44,996,1083)</string>
+	<real>0.18256773054599762</real>
+	<key>WindowFrame:aidanrandle-conde:displays([(0, 0), (1680, 1050)]:[(1680, 0), (1920, 1080)])</key>
+	<string>rect(110,66,996,915)</string>
 </dict>
 </plist>
