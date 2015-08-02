@@ -3,9 +3,14 @@ from project_module import project_object, image_object, link_object, challenge_
 p = project_object('apollo', 'Apollonian gasket generator')
 p.domain = 'http://www.aidansean.com/'
 p.path = 'apollo'
-p.preview_image_ = image_object('http://placekitten.com.s3.amazonaws.com/homepage-samples/408/287.jpg', 408, 287)
-p.github_repo_name = 'apollonian'
+p.preview_image    = image_object('%s/images/project.jpg'   %p.path, 150, 250)
+p.preview_image_bw = image_object('%s/images/project_bw.jpg'%p.path, 150, 250)
+p.folder_name = 'aidansean'
+p.github_repo_name = 'apollo'
 p.mathjax = True
+p.tags = 'Art,Images,Maths'
+p.technologies = 'canvas,HTML,JavaScript'
+p.wiki_link = 'https://en.wikipedia.org/wiki/Apollonian_gasket'
 p.links.append(link_object(p.domain, 'apollo/', 'Live page 1'))
 p.links.append(link_object(p.domain, 'apollo/index2.php', 'Live page 2'))
 p.introduction = 'One of my hobbies is creating fractals and one of the most interesting is the Apollonian gasket.  An area defined by some arcs and straight lines is recursively filled with circles and in all cases (except the trivial case of a single circle) this process recurses infinitely, making counting circles challenging.'

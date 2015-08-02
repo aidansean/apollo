@@ -13,7 +13,7 @@ colors.push('green') ;
 
 var x0 = -350 ;
 var y0 =  -50 ;
-var r  =  600 ;
+var r  =  750 ;
 
 function circle(r,x,y){
   this.r = r ;

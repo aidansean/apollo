@@ -1,7 +1,8 @@
 <?php
 $title = 'Apollonian gasket' ;
 $js_scripts = array('apollo2.js') ;
-include($_SERVER['FILE_PREFIX'] . '/_core/preamble.php') ;
+include_once('project.php') ;
+include_once($_SERVER['FILE_PREFIX'] . '/_core/preamble.php') ;
 ?>
   <div class="right">
     <p>This page makes an Apollonian gasket fractal.  Apollonian gaskets are cool.  And pretty.</p>

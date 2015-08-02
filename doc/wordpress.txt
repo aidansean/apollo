@@ -6,7 +6,7 @@ One of my hobbies is creating fractals and one of the most interesting is the Ap
 
 <a href="http://www.aidansean.com/apollo/">Live page 1</a>
 <a href="http://www.aidansean.com/apollo/index2.php">Live page 2</a>
-<a href="https://github.com/aidansean/apollonian">GitHub repository</a>
+<a href="https://github.com/aidansean/apollo">GitHub repository</a>
 
 <h3>Overview</h3>
 
@@ -32,7 +32,6 @@ where \(r_i\) is the radius of the \(i\)th circle.  The centres of the circles, 
 Three circles used to create a new circle are known as a triplet.  Each time a new circle is created from a triplet this introduces three new "holes" in which additional circles can be added.  The three new triplets associated with these holes are then \([c_1,c_2,c_4],[c_2,c_3,c_4],[c_3,c_1,c_4]\).
 
 <h3>Challenges</h3>
-
 <dl>
 <dt><em>Challenge</em>: The first challenge faced was to correctly reconstruct a new circle from a given triplet.  There is a degenerate case where the centres of the circles in a triplet are collinear and none of the circles contains another circle.  A degenerate collinear triplet can never emerge if the first triplet is not a degenerate collinear triplet.</dt>
 
